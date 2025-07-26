@@ -75,7 +75,7 @@ Download Visual Studio Code for your system from [here](https://code.visualstudi
 Once installed:
 1. Open VS Code
 2. Open a workspace by clicking 'Open Folder' in the 'Explorer' tab (top item of left navbar).
-3. Copy this .ipynb document to your workspace and open it. 
+3. Open the week1 folder under tutorials (or other weeks tutorial folder)
 
 **Starting VSC on Windows PCs**
 
