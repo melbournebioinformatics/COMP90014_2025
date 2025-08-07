@@ -175,7 +175,7 @@ def run_tests(o_size_l: list[int], n_oligos_l: list[int], n_genes_l: list[int]) 
 
 this_path = os.path.abspath(__file__)
 BASE_DIR = os.path.dirname(this_path)
-SCRIPT_PATH = f"{BASE_DIR}/A1solution.py"
+SCRIPT_PATH = f"{BASE_DIR}/A1.py"
 
 # configure correct python (or inform user that they need to take action)
 python_path = shutil.which("python")
