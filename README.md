@@ -142,14 +142,14 @@ To access it again later, just open the folder in VSC (no need to clone the repo
 
 **Weekly Updates**
 
-We update tutorial notebooks, provide solutions, and publish assignment material during the semester. 
+For each week, we update new tutorial materials through GitHub.
 
-Before each tutorial (and assignment) you will need to 'pull' these changes so you have the correct version. 
-
-How-to:
+1. Open the COMP90014_2025 cloned folder using VS Code.
 1. Navigate to the 'Source Control' tab
-2. Click the three dots '...' next to the 'CHANGES' heading
-3. Select 'Pull'
+1. Click the three dots '...' next to the 'CHANGES' heading
+1. Select 'Pull
+1. Copy the updated week tutorial to a separated location on your computer
+1. Make modifications to the copied notebook, while keep the cloned one unchanged
 
 <br>
 <img src="tutorials/media/readme/pull_repo.gif" width="600">
