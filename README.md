@@ -149,7 +149,7 @@ For each week, we update new tutorial materials through GitHub.
 1. Click the three dots '...' next to the 'CHANGES' heading
 1. Select 'Pull
 1. Copy the updated week tutorial to a separated location on your computer
-1. Make modifications to the copied notebook, while keep the cloned one unchanged
+1. Open VS Code to the new folder. Keep the git managed notebook unchanged
 
 <br>
 <img src="tutorials/media/readme/pull_repo.gif" width="600">
