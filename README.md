@@ -112,7 +112,7 @@ Add the following extensions (or confirm they are already installed):
 
 <br> 
 
-## Cloning and Pulling
+## Accessing Tutorial/Assignment Material
 
 **First time**
 
@@ -144,12 +144,18 @@ To access it again later, just open the folder in VSC (no need to clone the repo
 
 For each week, we update new tutorial materials through GitHub.
 
+You need to sync your local version of the COMP90014_2025 repository each week to pull these updates. 
+
+As some students have experienced merge conflicts when working directly within the COMP90014_2025 folder on their computer, here are new instructions. 
+
 1. Open the COMP90014_2025 cloned folder using VS Code.
-1. Navigate to the 'Source Control' tab
-1. Click the three dots '...' next to the 'CHANGES' heading
-1. Select 'Pull
-1. Copy the updated week tutorial to a separated location on your computer
-1. Open VS Code to the new folder. Keep the git managed notebook unchanged
+2. Navigate to the 'Source Control' tab.
+3. Click the three dots '...' next to the 'CHANGES' heading.
+4. Select 'Pull' to sync updates.
+5. ***Copy the updated week tutorial / assignment folder to a separate location on your computer [NEW INSTRUCTION]***
+6. ***Finally, open VS Code to the new folder [NEW INSTRUCTION]***
+
+By copying the tutorial / assignment folder into a new location (outside the COMP90014_2025 folder), any updates to the official material won't conflict with changes you have made. This is because the copied folder is no longer within your local version of the COMP90014_2025 repository. 
 
 <br>
 <img src="tutorials/media/readme/pull_repo.gif" width="600">
