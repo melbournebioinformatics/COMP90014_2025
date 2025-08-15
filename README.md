@@ -85,7 +85,7 @@ If running Linux via WSL, connect VSC to your Linux distribution each time it is
 
 <br>
 
-<img src="tutorials/media/readme/vsc_wsl.gif" width="800">
+<img src="./readme/vsc_wsl.gif" width="800">
 
 
 **Adding Extensions**
@@ -107,7 +107,7 @@ Add the following extensions (or confirm they are already installed):
 
 <br>
 
-<img src="tutorials/media/readme/vsc_extensions.gif" width="200">
+<img src="./readme/vsc_extensions.gif" width="200">
 
 
 <br> 
@@ -134,7 +134,7 @@ This folder is now present on your computer.  <br>
 To access it again later, just open the folder in VSC (no need to clone the repository again).
 
 <br>
-<img src="tutorials/media/readme/clone_repo.gif" width="600">
+<img src="./readme/clone_repo.gif" width="600">
 
 
 
@@ -158,5 +158,5 @@ As some students have experienced merge conflicts when working directly within t
 By copying the tutorial / assignment folder into a new location (outside the COMP90014_2025 folder), any updates to the official material won't conflict with changes you have made. This is because the copied folder is no longer within your local version of the COMP90014_2025 repository. 
 
 <br>
-<img src="tutorials/media/readme/pull_repo.gif" width="600">
+<img src="./readme/pull_repo.gif" width="600">
 
