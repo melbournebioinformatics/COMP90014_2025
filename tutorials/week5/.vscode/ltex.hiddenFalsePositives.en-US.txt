@@ -1,1 +1,0 @@
-{"rule":"ADVERB_OR_HYPHENATED_ADJECTIVE","sentence":"^\\QCreate an empty directed graph with no nodes and no edges (as trees are a special directed graph):\\E$"}
