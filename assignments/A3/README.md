@@ -181,7 +181,9 @@ Assignment 3 contains a python component and a written component.
 
 ***Written Component (4 marks)***
  
-On the LMS page for Assignment 3 you will see a text response question. This question asks you to describe and justify your approach to preprocessing, data mining, training, validation, and performance estimation. You are encouraged to include tables or images in your answer, but these are not strictly required. 
+On the LMS page for Assignment 3 you need to upload a .txt or .pdf file alongside your A3.py file. In this file, describe and justify your approach to preprocessing, data mining, training, validation, and performance estimation. You are encouraged to include tables or images but these are not strictly required. 
+
+To create a PDF file, we recommend creating a markdown (.md) file in VSC first, then using the 'Markdown PDF' VSC extension to export it to PDF. This will result in a neatly formatted written component and will allow you to include images / tables.  
 
 ***Python Component (11 marks)***
 
