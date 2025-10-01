@@ -69,6 +69,7 @@ The program should accept as input:
 - Clinical metadata for all 10,000 cats and 2,000 rooms in the study (`--meta`). 
 
 Assumptions you can make:
+- The log2 abundance values ***do not*** have batch effects. 
 - Within 'valid' rooms, all cats are happy. 
 - Within 'compromised' rooms, only one cat is 'evil'. The other cats are all 'scared'.
 - Happy cats drink a **normal** amount of water. 
